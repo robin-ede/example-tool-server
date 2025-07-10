@@ -7,7 +7,7 @@ An example implementation of a tool server using [universal-tool-server](https:/
 This server implements the following example tools:
 
 1. Exchange Rate: use an exchange rate API to find the exchange rate between two different currncies.
-2. GithHub API: surface most recent 50 issues for a given github repository.
+2. GitHub API: surface most recent 50 issues for a given github repository.
 3. Hacker News: query hacker news to find the 5 most relevant matches.
 4. Reddit: Query reddit for a particular topic
 
